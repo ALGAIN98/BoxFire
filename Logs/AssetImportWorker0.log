@@ -1,0 +1,560 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/zijunhe/3D RPG
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51440
+Successfully changed project path to: /Users/zijunhe/3D RPG
+/Users/zijunhe/3D RPG
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 52.77 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/zijunhe/3D RPG/Assets
+GfxDevice: creating device client; threaded=0
+2021-10-11 14:37:37.162 Unity[8637:326554] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics (low power)
+2021-10-11 14:37:37.162 Unity[8637:326554] Metal devices available: 1
+2021-10-11 14:37:37.162 Unity[8637:326554] 0: Intel(R) Iris(TM) Plus Graphics (low power)
+2021-10-11 14:37:37.162 Unity[8637:326554] Using device Intel(R) Iris(TM) Plus Graphics (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
+Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56637
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000516 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 50.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.329 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000801 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 58.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+WARNING: RGBA Compressed PVRTC 4BPP UNorm format is not supported, decompressing texture
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.143 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
+Launching external process: /Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2731 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 189.0 MB.
+System memory in use after: 189.1 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3175.
+Total: 3.003120 ms (FindLiveObjects: 0.371172 ms CreateObjectMapping: 0.237764 ms MarkObjects: 2.276226 ms  DeleteObjects: 0.115995 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Game Data/Character Data/Player Data.asset
+  artifactKey: Guid(6af654856f4584942bc5f4c14a957072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Data/Character Data/Player Data.asset using Guid(6af654856f4584942bc5f4c14a957072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e4c002b6fc5e8263b3bbe6bbe47fbc7') in 0.262372 seconds
+  Import took 0.269081 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001003 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.070 seconds
+Platform modules already initialized, skipping
+Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2614 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 194.6 MB.
+System memory in use after: 194.8 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3177.
+Total: 2.229950 ms (FindLiveObjects: 0.372175 ms CreateObjectMapping: 0.093307 ms MarkObjects: 1.700579 ms  DeleteObjects: 0.061094 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 612.242700 seconds.
+  path: Assets/Game Data/Character Data/Player Data.asset
+  artifactKey: Guid(6af654856f4584942bc5f4c14a957072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Data/Character Data/Player Data.asset using Guid(6af654856f4584942bc5f4c14a957072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d92edf9535d76a98a731302aca4c14f') in 0.023990 seconds
+  Import took 0.033127 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8713.009033 seconds.
+  path: Assets/Assets Packs/BOXOPHOBIC/Utils/Resources/Boxophobic - BannerBegin.psd
+  artifactKey: Guid(9515108b8376ad7418e8138858201b72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/BOXOPHOBIC/Utils/Resources/Boxophobic - BannerBegin.psd using Guid(9515108b8376ad7418e8138858201b72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '200949e8843318755e24268af825c6fc') in 0.501151 seconds
+  Import took 0.537559 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Clouds/Clouds 01 B.png
+  artifactKey: Guid(8d7166f9f362bce45af5049a10979b89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Clouds/Clouds 01 B.png using Guid(8d7166f9f362bce45af5049a10979b89) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed PVRTC 4BPP UNorm format is not supported, decompressing texture
+ -> (artifact id: 'b509011fde6e845283fffc506672f675') in 2.781463 seconds
+  Import took 2.786057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Clouds/Clouds 01 A.png
+  artifactKey: Guid(ee7bf433ad404fe4cb5e19b8a93b3bed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Clouds/Clouds 01 A.png using Guid(ee7bf433ad404fe4cb5e19b8a93b3bed) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed PVRTC 4BPP UNorm format is not supported, decompressing texture
+ -> (artifact id: 'c167a3d9825212d8588a6ca6162b25a8') in 2.283392 seconds
+  Import took 2.289490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Stars/Stars 8Corners.png
+  artifactKey: Guid(ef37dd05448664543ab7eeb444cec2bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Stars/Stars 8Corners.png using Guid(ef37dd05448664543ab7eeb444cec2bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGB Compressed PVRTC 4BPP UNorm format is not supported, decompressing texture
+ -> (artifact id: 'cc207888b614e982ae3eb9daee4101ae') in 2.123483 seconds
+  Import took 2.129379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Assets Packs/SimpleNaturePack/Scenes/SimpleNaturePack_Demo/ReflectionProbe-0.exr
+  artifactKey: Guid(52691c91679f647c582f78363280f2d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/SimpleNaturePack/Scenes/SimpleNaturePack_Demo/ReflectionProbe-0.exr using Guid(52691c91679f647c582f78363280f2d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGB Compressed PVRTC 4BPP UNorm format is not supported, decompressing texture
+ -> (artifact id: '23206e249004f1f05e24c9be40c2d062') in 0.425637 seconds
+  Import took 0.430708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Assets Packs/BOXOPHOBIC/Utils/Resources/Boxophobic - IconHelp.psd
+  artifactKey: Guid(b676a215be26cba488e51c0dda84e72d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/BOXOPHOBIC/Utils/Resources/Boxophobic - IconHelp.psd using Guid(b676a215be26cba488e51c0dda84e72d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '362a8ba15df82358eac0f100db0b9b57') in 0.012549 seconds
+  Import took 0.021506 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Assets Packs/BOXOPHOBIC/Utils/Resources/Boxophobic - CategoryBegin.psd
+  artifactKey: Guid(97ec2262fb592f94a9569e156ea65d7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/BOXOPHOBIC/Utils/Resources/Boxophobic - CategoryBegin.psd using Guid(97ec2262fb592f94a9569e156ea65d7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82d5364024c92117f27e575ed618357f') in 0.010986 seconds
+  Import took 0.019174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Clouds/Clouds 03 A.png
+  artifactKey: Guid(5bf545dec997743419de1df4195b3a0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Clouds/Clouds 03 A.png using Guid(5bf545dec997743419de1df4195b3a0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed PVRTC 4BPP UNorm format is not supported, decompressing texture
+ -> (artifact id: 'e45a41938f88ce01abfb536b9123b8bc') in 2.294835 seconds
+  Import took 2.303871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/Assets Packs/RPGHero/Textures/PolyArtTexture.png
+  artifactKey: Guid(6c077c7c0e8b52640992a79f449cbdf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/RPGHero/Textures/PolyArtTexture.png using Guid(6c077c7c0e8b52640992a79f449cbdf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGB Compressed PVRTC 4BPP UNorm format is not supported, decompressing texture
+ -> (artifact id: '8b8dd3219c24d0946a18b32ce4a0047f') in 0.030346 seconds
+  Import took 0.037361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Assets Packs/Mini Legion Grunt PBR HP Polyart/Textures/PBR/FreeAO.png
+  artifactKey: Guid(8b1d902bfa42d6d45b7df7066021bca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/Mini Legion Grunt PBR HP Polyart/Textures/PBR/FreeAO.png using Guid(8b1d902bfa42d6d45b7df7066021bca6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGB Compressed PVRTC 4BPP UNorm format is not supported, decompressing texture
+ -> (artifact id: '580cdca9143ae060f1dc7cbbecdea07d') in 0.268800 seconds
+  Import took 0.274951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Assets Packs/BOXOPHOBIC/Utils/Resources/Boxophobic - BannerBegin.psd
+  artifactKey: Guid(9515108b8376ad7418e8138858201b72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/BOXOPHOBIC/Utils/Resources/Boxophobic - BannerBegin.psd using Guid(9515108b8376ad7418e8138858201b72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '200949e8843318755e24268af825c6fc') in 0.008188 seconds
+  Import took 0.014112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000490 seconds.
+  path: Assets/Assets Packs/RPGHero/Textures/HandPaintedTexture.png
+  artifactKey: Guid(56cd14cc867c3f247ad4dab4f1e47413) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/RPGHero/Textures/HandPaintedTexture.png using Guid(56cd14cc867c3f247ad4dab4f1e47413) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGB Compressed PVRTC 4BPP UNorm format is not supported, decompressing texture
+ -> (artifact id: 'e6b38efd107b4eee0fcbf01dab71a10d') in 0.246925 seconds
+  Import took 0.254007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Suns/Sun 01.png
+  artifactKey: Guid(dd566660fc358aa4098080e42ca0db56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Suns/Sun 01.png using Guid(dd566660fc358aa4098080e42ca0db56) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed PVRTC 4BPP UNorm format is not supported, decompressing texture
+ -> (artifact id: 'e62b482b54e6a097e541490f0ae27e5e') in 0.202082 seconds
+  Import took 0.206674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000378 seconds.
+  path: Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Clouds/Clouds 04 A.png
+  artifactKey: Guid(eb066507e9bb4884e9d201eb874ccf2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Clouds/Clouds 04 A.png using Guid(eb066507e9bb4884e9d201eb874ccf2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed PVRTC 4BPP UNorm format is not supported, decompressing texture
+ -> (artifact id: 'fa2dbcd5c14ab8e71eda48584d306de1') in 2.279490 seconds
+  Import took 2.286245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Assets Packs/RPGHero/Textures/PBR_MS.png
+  artifactKey: Guid(8f230da24ef262747baee27cd5ef20ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/RPGHero/Textures/PBR_MS.png using Guid(8f230da24ef262747baee27cd5ef20ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed PVRTC 4BPP UNorm format is not supported, decompressing texture
+ -> (artifact id: '5cac83564e1ab1d6bf5b09ffcf531092') in 0.257659 seconds
+  Import took 0.262640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Assets Packs/BOXOPHOBIC/Utils/Resources/Boxophobic - Logo.png
+  artifactKey: Guid(4ebb9926546381046a4271ece54ce919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/BOXOPHOBIC/Utils/Resources/Boxophobic - Logo.png using Guid(4ebb9926546381046a4271ece54ce919) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a12013ba25e57c0976013931be2bcc2') in 0.014691 seconds
+  Import took 0.021978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Assets Packs/BOXOPHOBIC/Utils/Resources/Boxophobic - CategoryEnd.psd
+  artifactKey: Guid(e1c856352cf5b9b479ddb80c85c84cd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/BOXOPHOBIC/Utils/Resources/Boxophobic - CategoryEnd.psd using Guid(e1c856352cf5b9b479ddb80c85c84cd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '563a96eb347b873d45b8a3d126ea62f6') in 0.010537 seconds
+  Import took 0.018650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/Assets Packs/Mini Legion Grunt PBR HP Polyart/Textures/PBR/FreeAlbedo.png
+  artifactKey: Guid(bf102a4efa65ea3439ffd44a3af0238a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/Mini Legion Grunt PBR HP Polyart/Textures/PBR/FreeAlbedo.png using Guid(bf102a4efa65ea3439ffd44a3af0238a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGB Compressed PVRTC 4BPP UNorm format is not supported, decompressing texture
+ -> (artifact id: '1058a486048ddc3dabce648c47a615f2') in 0.250330 seconds
+  Import took 0.256306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Assets Packs/RPGHero/Textures/PBR_NM.png
+  artifactKey: Guid(d7c79101febab9d40a01bdc71adc4492) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/RPGHero/Textures/PBR_NM.png using Guid(d7c79101febab9d40a01bdc71adc4492) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGB Compressed PVRTC 4BPP UNorm format is not supported, decompressing texture
+ -> (artifact id: '0d0237d33777e5b6a6913473dd9c5718') in 0.251061 seconds
+  Import took 0.255769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Moons/Moon 02.png
+  artifactKey: Guid(bca1a5f579c02d74dbc7e7f61cda640b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Moons/Moon 02.png using Guid(bca1a5f579c02d74dbc7e7f61cda640b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed PVRTC 4BPP UNorm format is not supported, decompressing texture
+ -> (artifact id: 'dbe6b61b2725e4b89cb454b315da663d') in 0.206790 seconds
+  Import took 0.211393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Assets Packs/BOXOPHOBIC/Utils/Resources/Boxophobic - IconEdit.psd
+  artifactKey: Guid(cf593cb3310b7784a8f0967b8ba89b02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/BOXOPHOBIC/Utils/Resources/Boxophobic - IconEdit.psd using Guid(cf593cb3310b7784a8f0967b8ba89b02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70f1ab990004f80f704489ad119157ef') in 0.015601 seconds
+  Import took 0.022682 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Stars/Stars 5Corners.png
+  artifactKey: Guid(2410ceb2200b01a4cad9ef3c253b8a5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Stars/Stars 5Corners.png using Guid(2410ceb2200b01a4cad9ef3c253b8a5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGB Compressed PVRTC 4BPP UNorm format is not supported, decompressing texture
+ -> (artifact id: '522871b8ef0e7667f46bca829cc02ae6') in 2.127186 seconds
+  Import took 2.133493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Assets Packs/Mini Legion Grunt PBR HP Polyart/Textures/PolyartStandard.png
+  artifactKey: Guid(56c91d7e15663f44b9facd7fe19318b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/Mini Legion Grunt PBR HP Polyart/Textures/PolyartStandard.png using Guid(56c91d7e15663f44b9facd7fe19318b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGB Compressed PVRTC 4BPP UNorm format is not supported, decompressing texture
+ -> (artifact id: '76f99236bbad12fd3af919dcf8f5ea14') in 0.072646 seconds
+  Import took 0.077684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Assets Packs/Mini Legion Grunt PBR HP Polyart/Textures/HP/Grunt_Red.png
+  artifactKey: Guid(5f4db5eb140577649a98e791cedcf0a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/Mini Legion Grunt PBR HP Polyart/Textures/HP/Grunt_Red.png using Guid(5f4db5eb140577649a98e791cedcf0a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGB Compressed PVRTC 4BPP UNorm format is not supported, decompressing texture
+ -> (artifact id: 'dff62190ca16df0efc444d439a643d4e') in 0.246847 seconds
+  Import took 0.251143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Stars/Stars Disk.png
+  artifactKey: Guid(17fc448885ac9274db61725c98025b6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Stars/Stars Disk.png using Guid(17fc448885ac9274db61725c98025b6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGB Compressed PVRTC 4BPP UNorm format is not supported, decompressing texture
+ -> (artifact id: '9887be6f257277a38a6d2919787b68b6') in 2.115946 seconds
+  Import took 2.121822 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Assets Packs/BOXOPHOBIC/Utils/Resources/Boxophobic - BannerMiddle.psd
+  artifactKey: Guid(e3767adfa5dac5544830cd097ef6c09f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/BOXOPHOBIC/Utils/Resources/Boxophobic - BannerMiddle.psd using Guid(e3767adfa5dac5544830cd097ef6c09f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f53c441bf0ce156a1baa4320ff164de') in 0.009153 seconds
+  Import took 0.015955 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000401 seconds.
+  path: Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Clouds/Clouds 02 A.png
+  artifactKey: Guid(34edc89721b136d45a381ad609aa5793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Clouds/Clouds 02 A.png using Guid(34edc89721b136d45a381ad609aa5793) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed PVRTC 4BPP UNorm format is not supported, decompressing texture
+ -> (artifact id: '712ba6bbb1e8ac8f45af926a2ee405a6') in 2.229365 seconds
+  Import took 2.238639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Moons/Moon 04.png
+  artifactKey: Guid(b15c2596790c6ce42980282a7e842f57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Moons/Moon 04.png using Guid(b15c2596790c6ce42980282a7e842f57) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed PVRTC 4BPP UNorm format is not supported, decompressing texture
+ -> (artifact id: 'f5baecd0d54d3d737a48240e77c04050') in 0.193886 seconds
+  Import took 0.198681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Clouds/Clouds 04 B.png
+  artifactKey: Guid(023872850b03c4f469cf2ed17cd8b705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Clouds/Clouds 04 B.png using Guid(023872850b03c4f469cf2ed17cd8b705) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed PVRTC 4BPP UNorm format is not supported, decompressing texture
+ -> (artifact id: '1fd13584a2ba2d1a414b453d626c5ef5') in 2.246278 seconds
+  Import took 2.253097 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Assets Packs/Mini Legion Grunt PBR HP Polyart/Textures/PBR/FreeMS.png
+  artifactKey: Guid(328ee0dc1b1fc1c47ba597549be9d7a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/Mini Legion Grunt PBR HP Polyart/Textures/PBR/FreeMS.png using Guid(328ee0dc1b1fc1c47ba597549be9d7a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed PVRTC 4BPP UNorm format is not supported, decompressing texture
+ -> (artifact id: 'd94a28c28406eb2b878bd1a69216bf59') in 0.263725 seconds
+  Import took 0.268943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Assets Packs/Mini Legion Grunt PBR HP Polyart/Textures/PBR/FreeNormal.png
+  artifactKey: Guid(0af840f9f9eecb74da1600eb55dab3df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/Mini Legion Grunt PBR HP Polyart/Textures/PBR/FreeNormal.png using Guid(0af840f9f9eecb74da1600eb55dab3df) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGB Compressed PVRTC 4BPP UNorm format is not supported, decompressing texture
+ -> (artifact id: 'eb6ee2459e47ad84a6e890b915b191cc') in 0.240630 seconds
+  Import took 0.245048 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Stars/Stars Rhombus.png
+  artifactKey: Guid(cd8517e16ac507a4ea8c50fa7460ae98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Stars/Stars Rhombus.png using Guid(cd8517e16ac507a4ea8c50fa7460ae98) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGB Compressed PVRTC 4BPP UNorm format is not supported, decompressing texture
+ -> (artifact id: 'bea755e7aef5496a585692e9cd1314f3') in 2.172665 seconds
+  Import took 2.178777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Assets Packs/BOXOPHOBIC/Utils/Resources/Boxophobic - BannerEnd.psd
+  artifactKey: Guid(0dd3fbd5475976a4aa96298afc680d17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/BOXOPHOBIC/Utils/Resources/Boxophobic - BannerEnd.psd using Guid(0dd3fbd5475976a4aa96298afc680d17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '245873e03733302e57be9113ba47d61b') in 0.010669 seconds
+  Import took 0.017061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Moons/Moon 03.png
+  artifactKey: Guid(e80870b385adcae48871133b9b5759dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Moons/Moon 03.png using Guid(e80870b385adcae48871133b9b5759dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed PVRTC 4BPP UNorm format is not supported, decompressing texture
+ -> (artifact id: '00ff8b10b0cf9718645a1bbb8e8ce423') in 0.196437 seconds
+  Import took 0.203674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Noise/Noise 01.png
+  artifactKey: Guid(4962b985402794749902f8b024ee1934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Noise/Noise 01.png using Guid(4962b985402794749902f8b024ee1934) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGB Compressed PVRTC 4BPP UNorm format is not supported, decompressing texture
+ -> (artifact id: 'fbe52f119889c273502a18f9eba54224') in 0.014015 seconds
+  Import took 0.021032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Assets Packs/RPGHero/Textures/PBR_Albedo.png
+  artifactKey: Guid(802701e4ffdf6b44890959e9fc44b4ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/RPGHero/Textures/PBR_Albedo.png using Guid(802701e4ffdf6b44890959e9fc44b4ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGB Compressed PVRTC 4BPP UNorm format is not supported, decompressing texture
+ -> (artifact id: '9fcc8865219a7dbff523cb4298c2b0f0') in 0.246727 seconds
+  Import took 0.252453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Moons/Moon 01.png
+  artifactKey: Guid(16d300134c867234588aeecccb9392b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Moons/Moon 01.png using Guid(16d300134c867234588aeecccb9392b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed PVRTC 4BPP UNorm format is not supported, decompressing texture
+ -> (artifact id: 'fdd2d87fa75e47f3825853a70f2325e3') in 0.191738 seconds
+  Import took 0.198091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001190 seconds.
+  path: Assets/Assets Packs/SimpleNaturePack/Textures/NaturePackLite_Texture_01.png
+  artifactKey: Guid(28a51d508c86a8948b59df81d5188b17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/SimpleNaturePack/Textures/NaturePackLite_Texture_01.png using Guid(28a51d508c86a8948b59df81d5188b17) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGB Compressed PVRTC 4BPP UNorm format is not supported, decompressing texture
+ -> (artifact id: '7e907ca3e62ef480044168803518c193') in 0.071345 seconds
+  Import took 0.077693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Patterns/Pattern 02.png
+  artifactKey: Guid(5e08451c0e8bb7a4f9ca20067695cda7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Patterns/Pattern 02.png using Guid(5e08451c0e8bb7a4f9ca20067695cda7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGB Compressed PVRTC 4BPP UNorm format is not supported, decompressing texture
+ -> (artifact id: 'f51218b1f2cbd797afd45aa22bb0c997') in 2.273675 seconds
+  Import took 2.280320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000394 seconds.
+  path: Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Patterns/Pattern 01.png
+  artifactKey: Guid(3845b30ba2fbdee44a85e5ead4dd2974) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Patterns/Pattern 01.png using Guid(3845b30ba2fbdee44a85e5ead4dd2974) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGB Compressed PVRTC 4BPP UNorm format is not supported, decompressing texture
+ -> (artifact id: 'd7fcecb8a2ef4a89ab2b3f9feaee4b1e') in 2.241779 seconds
+  Import took 2.249021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Clouds/Clouds 03 B.png
+  artifactKey: Guid(e3373d7062a4a5044ac0f0745de6c934) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Clouds/Clouds 03 B.png using Guid(e3373d7062a4a5044ac0f0745de6c934) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed PVRTC 4BPP UNorm format is not supported, decompressing texture
+ -> (artifact id: '47a01a07344fdb54c6999fc03ba8f499') in 2.403421 seconds
+  Import took 2.410656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Clouds/Clouds 02 B.png
+  artifactKey: Guid(5a0b534896747994487da03b1fc5b020) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Clouds/Clouds 02 B.png using Guid(5a0b534896747994487da03b1fc5b020) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed PVRTC 4BPP UNorm format is not supported, decompressing texture
+ -> (artifact id: '0d3348ff42318951175cd14bf5c6b068') in 2.303523 seconds
+  Import took 2.309657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Assets Packs/RPGHero/Textures/PBR_AO.png
+  artifactKey: Guid(0ad2676e72931c9428fea50394d358f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/RPGHero/Textures/PBR_AO.png using Guid(0ad2676e72931c9428fea50394d358f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed PVRTC 4BPP UNorm format is not supported, decompressing texture
+ -> (artifact id: 'b8aab33221bc984250754d24d5b2773b') in 0.240636 seconds
+  Import took 0.245137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Patterns/Pattern 03.png
+  artifactKey: Guid(2496987be02f21244bcd1e6c3bfa5aff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Patterns/Pattern 03.png using Guid(2496987be02f21244bcd1e6c3bfa5aff) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGB Compressed PVRTC 4BPP UNorm format is not supported, decompressing texture
+ -> (artifact id: 'd304c7284ea9dada480bfb89c8d884c8') in 2.192650 seconds
+  Import took 2.199822 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Stars/Stars Square.png
+  artifactKey: Guid(4136c4d5d7422cf49a21b885d09f4518) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Stars/Stars Square.png using Guid(4136c4d5d7422cf49a21b885d09f4518) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGB Compressed PVRTC 4BPP UNorm format is not supported, decompressing texture
+ -> (artifact id: 'a6130e59991da6d0c93389ad151a6219') in 2.245171 seconds
+  Import took 2.252140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000359 seconds.
+  path: Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Clouds/Clouds 05 B.png
+  artifactKey: Guid(5df5f8e237761404a9f395bab51aef82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Clouds/Clouds 05 B.png using Guid(5df5f8e237761404a9f395bab51aef82) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed PVRTC 4BPP UNorm format is not supported, decompressing texture
+ -> (artifact id: '267881318652b28bb1097fbb44574a04') in 2.308772 seconds
+  Import took 2.316010 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Assets Packs/RPGHero/PromotionImage.jpg
+  artifactKey: Guid(5cb6c6af00f7e294baeda13ac52fb671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/RPGHero/PromotionImage.jpg using Guid(5cb6c6af00f7e294baeda13ac52fb671) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGB Compressed PVRTC 4BPP UNorm format is not supported, decompressing texture
+ -> (artifact id: 'c9be88dbb1117f403f4e04321b9aa0e8') in 0.442963 seconds
+  Import took 0.447559 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Assets Packs/Mini Legion Grunt PBR HP Polyart/Textures/PBR/FreeEmission.png
+  artifactKey: Guid(24b6d821ed038eb438afa81a03f84cbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/Mini Legion Grunt PBR HP Polyart/Textures/PBR/FreeEmission.png using Guid(24b6d821ed038eb438afa81a03f84cbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGB Compressed PVRTC 4BPP UNorm format is not supported, decompressing texture
+ -> (artifact id: 'c422598aade2dde6c9b11ecef6d594c3') in 0.242515 seconds
+  Import took 0.247397 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Assets Packs/BOXOPHOBIC/Utils/Resources/Boxophobic - CategoryMiddle.psd
+  artifactKey: Guid(106fc33e3a3dab34f89693e3ed333fa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/BOXOPHOBIC/Utils/Resources/Boxophobic - CategoryMiddle.psd using Guid(106fc33e3a3dab34f89693e3ed333fa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8be82c76e08a9715a690adaf42115c0c') in 0.006091 seconds
+  Import took 0.010916 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Moons/Moon 05.png
+  artifactKey: Guid(4d70420f1a4758e469e0ac65b6df86cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/BOXOPHOBIC/Polyverse Skies/Core/Textures/Moons/Moon 05.png using Guid(4d70420f1a4758e469e0ac65b6df86cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) WARNING: RGBA Compressed PVRTC 4BPP UNorm format is not supported, decompressing texture
+ -> (artifact id: '7e9132ecb6f34d69ea42c1364c9703c4') in 0.197228 seconds
+  Import took 0.201342 seconds .
+

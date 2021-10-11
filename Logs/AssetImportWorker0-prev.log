@@ -1,0 +1,832 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/zijunhe/3D RPG
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49835
+Successfully changed project path to: /Users/zijunhe/3D RPG
+/Users/zijunhe/3D RPG
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 54.07 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/zijunhe/3D RPG/Assets
+GfxDevice: creating device client; threaded=0
+2021-10-11 11:58:53.454 Unity[7961:248694] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics (low power)
+2021-10-11 11:58:53.454 Unity[7961:248694] Metal devices available: 1
+2021-10-11 11:58:53.454 Unity[7961:248694] 0: Intel(R) Iris(TM) Plus Graphics (low power)
+2021-10-11 11:58:53.455 Unity[7961:248694] Using device Intel(R) Iris(TM) Plus Graphics (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
+Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56961
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000510 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 49.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.562 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000831 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 72.62 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+WARNING: RGBA Compressed PVRTC 4BPP UNorm format is not supported, decompressing texture
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.377 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
+Launching external process: /Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2731 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 188.5 MB.
+System memory in use after: 188.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 3175.
+Total: 2.543626 ms (FindLiveObjects: 0.285993 ms CreateObjectMapping: 0.097219 ms MarkObjects: 2.058151 ms  DeleteObjects: 0.100404 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/Character Stats/MonoBehavior/CharacterStats.cs
+  artifactKey: Guid(748c74e86d31a4a0dbd95acddc7a45cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Character Stats/MonoBehavior/CharacterStats.cs using Guid(748c74e86d31a4a0dbd95acddc7a45cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f7a2c2803e774ffa6b291ebc29594c1') in 0.432257 seconds
+  Import took 0.438199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.524314 seconds.
+  path: Assets/Scripts/Characters/EnemyController.cs
+  artifactKey: Guid(291a308b60ea84ab0bc2dfce2c29e4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Characters/EnemyController.cs using Guid(291a308b60ea84ab0bc2dfce2c29e4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b280de7213c17ed82bfc707960cccaf2') in 0.001952 seconds
+  Import took 0.007198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017110 seconds.
+  path: Assets/Scripts/Characters/EnemyController.cs
+  artifactKey: Guid(291a308b60ea84ab0bc2dfce2c29e4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Characters/EnemyController.cs using Guid(291a308b60ea84ab0bc2dfce2c29e4c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b280de7213c17ed82bfc707960cccaf2') in 0.001472 seconds
+  Import took 0.006613 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.875777 seconds.
+  path: Assets/Scripts/Characters/PlayerController.cs
+  artifactKey: Guid(7abd79dbb39a94605a36f36f3204b006) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Characters/PlayerController.cs using Guid(7abd79dbb39a94605a36f36f3204b006) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb132f223fb628596b3f3f2b6123ea95') in 0.001451 seconds
+  Import took 0.006967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003876 seconds.
+  path: Assets/Scripts/Characters/PlayerController.cs
+  artifactKey: Guid(7abd79dbb39a94605a36f36f3204b006) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Characters/PlayerController.cs using Guid(7abd79dbb39a94605a36f36f3204b006) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb132f223fb628596b3f3f2b6123ea95') in 0.002059 seconds
+  Import took 0.007762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.154835 seconds.
+  path: Assets/Scripts/Combat/AttackData_SO.cs
+  artifactKey: Guid(2c0517bfdf78d4671871f7ac359ad84f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Combat/AttackData_SO.cs using Guid(2c0517bfdf78d4671871f7ac359ad84f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fc0a6cd824b817055ff417e02c10e17') in 0.001569 seconds
+  Import took 0.008072 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.192295 seconds.
+  path: Assets/Scripts/Managers/MouseManager.cs
+  artifactKey: Guid(f6012c4aeabfc4f5bb18e277f232e4da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Managers/MouseManager.cs using Guid(f6012c4aeabfc4f5bb18e277f232e4da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '205e3e8773accadb49a6aa32ffe984a7') in 0.001460 seconds
+  Import took 0.006351 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000743 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.086 seconds
+Platform modules already initialized, skipping
+Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2614 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 194.6 MB.
+System memory in use after: 194.8 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3177.
+Total: 2.322144 ms (FindLiveObjects: 0.320042 ms CreateObjectMapping: 0.119216 ms MarkObjects: 1.816248 ms  DeleteObjects: 0.065100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001315 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.017 seconds
+Platform modules already initialized, skipping
+Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2615 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 194.9 MB.
+System memory in use after: 195.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3179.
+Total: 2.088553 ms (FindLiveObjects: 0.315873 ms CreateObjectMapping: 0.133164 ms MarkObjects: 1.579105 ms  DeleteObjects: 0.059078 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000789 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.102 seconds
+Platform modules already initialized, skipping
+Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2615 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 195.1 MB.
+System memory in use after: 195.3 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3181.
+Total: 2.325770 ms (FindLiveObjects: 0.309854 ms CreateObjectMapping: 0.108758 ms MarkObjects: 1.846808 ms  DeleteObjects: 0.058537 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000704 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.018 seconds
+Platform modules already initialized, skipping
+Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2615 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 195.3 MB.
+System memory in use after: 195.5 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3183.
+Total: 2.307651 ms (FindLiveObjects: 0.243899 ms CreateObjectMapping: 0.094474 ms MarkObjects: 1.907345 ms  DeleteObjects: 0.059346 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000754 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.045 seconds
+Platform modules already initialized, skipping
+Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
+Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2615 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 195.6 MB.
+System memory in use after: 195.8 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3185.
+Total: 2.737568 ms (FindLiveObjects: 0.380321 ms CreateObjectMapping: 0.154129 ms MarkObjects: 2.130232 ms  DeleteObjects: 0.070684 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000821 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.125 seconds
+Platform modules already initialized, skipping
+Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2615 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 195.8 MB.
+System memory in use after: 196.0 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3187.
+Total: 3.109767 ms (FindLiveObjects: 0.403074 ms CreateObjectMapping: 0.145827 ms MarkObjects: 2.500336 ms  DeleteObjects: 0.058379 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000806 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.050 seconds
+Platform modules already initialized, skipping
+Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2615 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 196.1 MB.
+System memory in use after: 196.3 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3189.
+Total: 3.250108 ms (FindLiveObjects: 0.516126 ms CreateObjectMapping: 0.183530 ms MarkObjects: 2.478949 ms  DeleteObjects: 0.068821 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001028 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.100 seconds
+Platform modules already initialized, skipping
+Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2615 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 196.3 MB.
+System memory in use after: 196.5 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3191.
+Total: 2.266708 ms (FindLiveObjects: 0.295823 ms CreateObjectMapping: 0.137770 ms MarkObjects: 1.769916 ms  DeleteObjects: 0.061253 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000785 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.076 seconds
+Platform modules already initialized, skipping
+Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2615 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 196.5 MB.
+System memory in use after: 196.7 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3193.
+Total: 3.805685 ms (FindLiveObjects: 0.543457 ms CreateObjectMapping: 0.180144 ms MarkObjects: 3.001844 ms  DeleteObjects: 0.078102 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 3993.821306 seconds.
+  path: Assets/Pipeline Settings/UniversalRenderPipelineAsset_Renderer.asset
+  artifactKey: Guid(2d55cd0435da34a61bbd64a775490ef9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Pipeline Settings/UniversalRenderPipelineAsset_Renderer.asset using Guid(2d55cd0435da34a61bbd64a775490ef9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cf2567af07285d602a5730f0d36dbf8') in 0.394603 seconds
+  Import took 0.401883 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.363054 seconds.
+  path: Assets/Scripts/Character Stats/MonoBehavior/CharacterStats.cs
+  artifactKey: Guid(748c74e86d31a4a0dbd95acddc7a45cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Character Stats/MonoBehavior/CharacterStats.cs using Guid(748c74e86d31a4a0dbd95acddc7a45cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff8585c8292685cc5bd58f998fd8ffc3') in 0.003569 seconds
+  Import took 0.008052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002733 seconds.
+  path: Assets/Scripts/Character Stats/MonoBehavior/CharacterStats.cs
+  artifactKey: Guid(748c74e86d31a4a0dbd95acddc7a45cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Character Stats/MonoBehavior/CharacterStats.cs using Guid(748c74e86d31a4a0dbd95acddc7a45cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff8585c8292685cc5bd58f998fd8ffc3') in 0.005536 seconds
+  Import took 0.011784 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.988157 seconds.
+  path: Assets/Game Data/Character Data/Grunt Data.asset
+  artifactKey: Guid(9f0377954561f4dc4910604024ff3081) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Data/Character Data/Grunt Data.asset using Guid(9f0377954561f4dc4910604024ff3081) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a34f6cdd096e271cc7347be77a7edc1') in 0.006942 seconds
+  Import took 0.012629 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Game Data/Character Data/Player Data.asset
+  artifactKey: Guid(6af654856f4584942bc5f4c14a957072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Data/Character Data/Player Data.asset using Guid(6af654856f4584942bc5f4c14a957072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '181b2da3f04ed20851db525574964c4d') in 0.004618 seconds
+  Import took 0.008668 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000724 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.004 seconds
+Platform modules already initialized, skipping
+Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2615 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 201.0 MB.
+System memory in use after: 201.2 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3195.
+Total: 2.225656 ms (FindLiveObjects: 0.342267 ms CreateObjectMapping: 0.113520 ms MarkObjects: 1.707993 ms  DeleteObjects: 0.060058 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 923.642542 seconds.
+  path: Assets/Game Data/Character Data/Grunt Data.asset
+  artifactKey: Guid(9f0377954561f4dc4910604024ff3081) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Data/Character Data/Grunt Data.asset using Guid(9f0377954561f4dc4910604024ff3081) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4b9d0cd1abfa81d6a9c3681dd5e3c4c') in 0.028041 seconds
+  Import took 0.034083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/Game Data/Character Data/Player Data.asset
+  artifactKey: Guid(6af654856f4584942bc5f4c14a957072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Data/Character Data/Player Data.asset using Guid(6af654856f4584942bc5f4c14a957072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53f34e9c74406d8e317906c1536af369') in 0.006980 seconds
+  Import took 0.013822 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000741 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.091 seconds
+Platform modules already initialized, skipping
+Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2615 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 201.3 MB.
+System memory in use after: 201.5 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3197.
+Total: 2.671857 ms (FindLiveObjects: 0.303153 ms CreateObjectMapping: 0.112054 ms MarkObjects: 2.186923 ms  DeleteObjects: 0.066919 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 149.552691 seconds.
+  path: Assets/Game Data/Attack Data/Player BaseAttackData.asset
+  artifactKey: Guid(9389d101ebb3c4a50895ffa4316b1ee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Data/Attack Data/Player BaseAttackData.asset using Guid(9389d101ebb3c4a50895ffa4316b1ee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '246908df7458ec0a1acfbe2f8ab81f6d') in 0.026177 seconds
+  Import took 0.032756 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000775 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.138 seconds
+Platform modules already initialized, skipping
+Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2615 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 201.5 MB.
+System memory in use after: 201.7 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3199.
+Total: 2.184760 ms (FindLiveObjects: 0.247705 ms CreateObjectMapping: 0.094790 ms MarkObjects: 1.778482 ms  DeleteObjects: 0.061293 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000899 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.015 seconds
+Platform modules already initialized, skipping
+Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2615 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 201.7 MB.
+System memory in use after: 201.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3201.
+Total: 2.620520 ms (FindLiveObjects: 0.376879 ms CreateObjectMapping: 0.118889 ms MarkObjects: 2.024465 ms  DeleteObjects: 0.098594 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 663.495483 seconds.
+  path: Assets/Game Data/Attack Data/Player BaseAttackData.asset
+  artifactKey: Guid(9389d101ebb3c4a50895ffa4316b1ee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Data/Attack Data/Player BaseAttackData.asset using Guid(9389d101ebb3c4a50895ffa4316b1ee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5afdcd3217399b4b47feafa3a7cfb13c') in 0.015566 seconds
+  Import took 0.021281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 189.877378 seconds.
+  path: Assets/Game Data/Character Data/Grunt Data.asset
+  artifactKey: Guid(9f0377954561f4dc4910604024ff3081) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Data/Character Data/Grunt Data.asset using Guid(9f0377954561f4dc4910604024ff3081) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26a16eea75b3aa9591ac87dd42a3a7a3') in 0.005433 seconds
+  Import took 0.011370 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Game Data/Character Data/Player Data.asset
+  artifactKey: Guid(6af654856f4584942bc5f4c14a957072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Data/Character Data/Player Data.asset using Guid(6af654856f4584942bc5f4c14a957072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e94f0d243ccb367015380889f2b540ed') in 0.003798 seconds
+  Import took 0.008480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 707.239167 seconds.
+  path: Assets/Assets Packs/Mini Legion Grunt PBR HP Polyart/FreePromo.jpg
+  artifactKey: Guid(647d557aa7bda5d46857ac29a4ea8b8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets Packs/Mini Legion Grunt PBR HP Polyart/FreePromo.jpg using Guid(647d557aa7bda5d46857ac29a4ea8b8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11ce8664914209953ff8b09ed86cfd96') in 0.444297 seconds
+  Import took 0.450386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 528.297207 seconds.
+  path: Assets/Animations/Animators/Enemy_Grunt.controller
+  artifactKey: Guid(8e2a9229f504945b380ff05d4b7fbcf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Animators/Enemy_Grunt.controller using Guid(8e2a9229f504945b380ff05d4b7fbcf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73e4bf6c0a8525c0923b8b7ee79ece82') in 0.355296 seconds
+  Import took 0.360910 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000746 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.964 seconds
+Platform modules already initialized, skipping
+Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2615 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 210.7 MB.
+System memory in use after: 210.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3205.
+Total: 2.535964 ms (FindLiveObjects: 0.446293 ms CreateObjectMapping: 0.139266 ms MarkObjects: 1.872313 ms  DeleteObjects: 0.076563 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1005.684030 seconds.
+  path: Assets/Game Data/Attack Data/Grunt Attack.asset
+  artifactKey: Guid(2982ace0af0e14e0a953b08eb8c4901e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Data/Attack Data/Grunt Attack.asset using Guid(2982ace0af0e14e0a953b08eb8c4901e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c4202ce6c6ae4ed36061853a3a1a1bc') in 0.024375 seconds
+  Import took 0.033036 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Game Data/Attack Data/Player BaseAttackData.asset
+  artifactKey: Guid(9389d101ebb3c4a50895ffa4316b1ee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Data/Attack Data/Player BaseAttackData.asset using Guid(9389d101ebb3c4a50895ffa4316b1ee9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '273c86c75a42fe21eb0bacca5ef66512') in 0.005608 seconds
+  Import took 0.012951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.797112 seconds.
+  path: Assets/Game Data/Character Data/Grunt Data.asset
+  artifactKey: Guid(9f0377954561f4dc4910604024ff3081) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Data/Character Data/Grunt Data.asset using Guid(9f0377954561f4dc4910604024ff3081) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ef047d776ec35f3a3dd48519325c340') in 0.005558 seconds
+  Import took 0.012002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000499 seconds.
+  path: Assets/Game Data/Character Data/Player Data.asset
+  artifactKey: Guid(6af654856f4584942bc5f4c14a957072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Data/Character Data/Player Data.asset using Guid(6af654856f4584942bc5f4c14a957072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14f4fe0b99bf44be48742ef303a26f2e') in 0.006432 seconds
+  Import took 0.014055 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001300 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.103 seconds
+Platform modules already initialized, skipping
+Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2615 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 211.0 MB.
+System memory in use after: 211.2 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3207.
+Total: 2.415698 ms (FindLiveObjects: 0.363552 ms CreateObjectMapping: 0.158908 ms MarkObjects: 1.817028 ms  DeleteObjects: 0.074584 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 294.669153 seconds.
+  path: Assets/Animations/Animators/Enemy_Grunt.controller
+  artifactKey: Guid(8e2a9229f504945b380ff05d4b7fbcf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Animators/Enemy_Grunt.controller using Guid(8e2a9229f504945b380ff05d4b7fbcf4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01dad8895b2e8c08683e2c943537a4e9') in 0.143975 seconds
+  Import took 0.150782 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000744 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.930 seconds
+Platform modules already initialized, skipping
+Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2615 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 211.2 MB.
+System memory in use after: 211.4 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3209.
+Total: 2.803631 ms (FindLiveObjects: 0.454042 ms CreateObjectMapping: 0.163977 ms MarkObjects: 2.100174 ms  DeleteObjects: 0.083190 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 458.535442 seconds.
+  path: Assets/Game Data/Character Data/Grunt Data.asset
+  artifactKey: Guid(9f0377954561f4dc4910604024ff3081) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game Data/Character Data/Grunt Data.asset using Guid(9f0377954561f4dc4910604024ff3081) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c569004719f580f8c576840bc284b34') in 0.015897 seconds
+  Import took 0.021379 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001298 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.048 seconds
+Platform modules already initialized, skipping
+Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2615 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 211.4 MB.
+System memory in use after: 211.6 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3211.
+Total: 2.734507 ms (FindLiveObjects: 0.327391 ms CreateObjectMapping: 0.154849 ms MarkObjects: 2.185263 ms  DeleteObjects: 0.065099 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001011 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.055 seconds
+Platform modules already initialized, skipping
+Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2615 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 211.7 MB.
+System memory in use after: 211.9 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3213.
+Total: 3.892930 ms (FindLiveObjects: 0.700122 ms CreateObjectMapping: 0.422863 ms MarkObjects: 2.653790 ms  DeleteObjects: 0.112989 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000771 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.094 seconds
+Platform modules already initialized, skipping
+Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
+Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2615 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 211.9 MB.
+System memory in use after: 212.1 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3215.
+Total: 2.587543 ms (FindLiveObjects: 0.335280 ms CreateObjectMapping: 0.135486 ms MarkObjects: 2.047771 ms  DeleteObjects: 0.067359 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000788 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.138 seconds
+Platform modules already initialized, skipping
+Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2615 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 212.1 MB.
+System memory in use after: 212.3 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3217.
+Total: 2.733078 ms (FindLiveObjects: 0.322866 ms CreateObjectMapping: 0.137564 ms MarkObjects: 2.181034 ms  DeleteObjects: 0.089401 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000741 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.105 seconds
+Platform modules already initialized, skipping
+Shader 'BOXOPHOBIC/Polyverse Skies/Standard': fallback shader 'False' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'BOXOPHOBIC/Polyverse Skies/Simple': fallback shader 'False' not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2615 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 212.4 MB.
+System memory in use after: 212.6 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 3219.
+Total: 2.817520 ms (FindLiveObjects: 0.421808 ms CreateObjectMapping: 0.135372 ms MarkObjects: 2.188484 ms  DeleteObjects: 0.069512 ms)
+
